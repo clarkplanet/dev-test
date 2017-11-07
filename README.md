@@ -8,7 +8,7 @@ code readability and cleanliness.
 In this package
 ---------------
 
-You'll find a sample data set in the form of a MySQL database dump, for your convenience.
+You'll find a sample data set in the form of a MySQL database dump or seperated as individual json files, for your convenience.
 
 This test set also includes example output in the form of an HTML page:
 index.html.
@@ -16,7 +16,7 @@ index.html.
 Problem
 -------
 
-Your task is to use the data provided and implement some sort of application in PHP/Larvel to output the data in a format that matches the HTML in index.html. Your
+Your task is to use the data provided and implement some sort of application using either PHP/Larvel or React to output the data in a format that matches the HTML in index.html. Your
 solution should accept any data set like the one provided, so it must allow any
 number of skills per person, any number of jobs, and any number of applicants.
 
