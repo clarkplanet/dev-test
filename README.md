@@ -16,7 +16,7 @@ index.html.
 Problem
 -------
 
-Your task is to use the data provided and implement some sort of application using either PHP/Larvel or React to output the data in a format that matches the HTML in index.html. Your
+Your task is to use the data provided and implement some sort of application using either PHP/Larvel or Vue.js to output the data in a format that matches the HTML in index.html. Your
 solution should accept any data set like the one provided, so it must allow any
 number of skills per person, any number of jobs, and any number of applicants.
 
