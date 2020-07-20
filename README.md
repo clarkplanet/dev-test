@@ -16,8 +16,9 @@ index.html.
 Problem
 -------
 
-Your task is to use the data provided and implement some sort of application using either PHP/Larvel or Vue.js to output the data in a format that matches the HTML in index.html. Your
-solution should accept any data set like the one provided, so it must allow any
+Your task is to use the data provided and implement some sort of application using a framwork of your choice.  You may set up 
+the backend using AWS API Gateway or web framework (Larvel/React.js/Vue.js) to output the data in a format that matches the 
+HTML in index.html. Your solution should accept any data set like the one provided, so it must allow any
 number of skills per person, any number of jobs, and any number of applicants.
 
 Please feel free to ask questions: jesse@fashionphile.com.
